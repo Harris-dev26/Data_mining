@@ -3,8 +3,9 @@
 Data has these columns:
 
 columns = 
-    "ID","Gender", "Age_Group", "Residence", "Education_Level", "Source_of_Income","Marital_Status",
+    
      
+     "ID","Gender", "Age_Group", "Residence", "Education_Level", "Source_of_Income","Marital_Status",
      "Smoked_Cigarettes", "Year_Diagnosed", 
      
      "Surgical_Treatment","Chemotherapy", "Radiotherapy", "Immunotherapy", "Molecular_targeted_Therapy",
