@@ -1,4 +1,8 @@
 # Data_mining notes:
+https://docs.google.com/document/d/15p6dBtKLRjs9QrQgWpXvkawDH2oMKg-pY6WiIyBc-6U/edit?tab=t.0
+
+This is the link for discussion notes.
+
 
 Data has these columns:
 
