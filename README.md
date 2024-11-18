@@ -23,10 +23,12 @@ columns =
     "Energy_Level", "Self_Care", "Daily_Activities_Difficulty",
     "Work_Readiness", "Support_Satisfaction", "Coping_Strategy", "Negative_Emotions"
 
-These can be grouped into:
+
+1- These can be grouped into:
 - demographic features: 
 - Therpahy type features:
 - Symptom exp:
 - Daily_Life_Impact:
 - Emotions, Satisfaction ...
 - ???
+
