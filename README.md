@@ -31,5 +31,5 @@ columns =
 - Symptom exp:
 - Daily_Life_Impact:
 - Emotions, Satisfaction ...
-- ???
+- ??
 
