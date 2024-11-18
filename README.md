@@ -31,7 +31,7 @@ columns =
 - Symptom exp:
 - Daily_Life_Impact:
 - Emotions, Satisfaction ...
-- ??
+- ???
 
 We will try to make a target feature looking at these groups above.
 We can look at the highly correlated values.. 
